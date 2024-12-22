@@ -35,7 +35,7 @@ const NavBar = () => {
             {NavLinks}
           </ul>
         </div>
-        <a className="text-xl btn btn-ghost">daisyUI</a>
+        <a className="text-xl btn btn-ghost">Career Hub</a>
       </div>
       <div className="hidden navbar-center lg:flex">
         <ul className="px-1 menu menu-horizontal">
@@ -43,7 +43,7 @@ const NavBar = () => {
         </ul>
       </div>
       <div className="navbar-end">
-        <a className="btn">Button</a>
+        <a className="btn">Apply Now</a>
       </div>
     </div>
   );
